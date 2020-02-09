@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div class="container">
-  Hello template.
+  <div id="app"></div>
 </div>
 
 <?php get_footer(); ?>
