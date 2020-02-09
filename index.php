@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div class="container">
-  <div id="app"></div>
+  <div id="App"></div>
 </div>
 
 <?php get_footer(); ?>
