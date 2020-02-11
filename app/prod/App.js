@@ -1,7 +1,5 @@
 // don't forget to run preprocessor
 // https://reactjs.org/docs/add-react-to-a-website.html#run-jsx-preprocessor
-// npx babel --watch app/src --out-dir app/prod --presets react-app/prod 
-// on root of theme
 
 'use strict';
 
@@ -30,7 +28,7 @@ var App = function (_React$Component) {
     };
 
     _this.state = {
-      name: 'Click'
+      name: 'Flint'
     };
     return _this;
   }
